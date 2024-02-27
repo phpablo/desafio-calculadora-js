@@ -4,5 +4,5 @@ console.log('Você digitou:' + nome);
 
 
 // Não funciona
-var nome = prompt('Qual seu nome ?');
-console.log(`Olá ${nome}`);
+// var nome = prompt('Qual seu nome ?');
+// console.log(`Olá ${nome}`);
